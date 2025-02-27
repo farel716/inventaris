@@ -186,7 +186,7 @@
             <a href="/pilihLogin">Login Sekarang</a>
         </div>
         <div class="image">
-            <img src="{{ asset('gambar/image.png') }}">
+            <img src="{{ asset('gambar/imagea1.png') }}">
         </div>
     </main>
     
